@@ -17,8 +17,7 @@ app.use(express.urlencoded({ limit: "30mb", extended: true }));
 app.use(cors()); 
 
 // add routes
-app.use("/buildings", buildingRoute);
-app.use("/cars", carRoute);
+app.use("/buildings", buildingRoute); 
 app.use("/gardens", gardenRoute);
 app.use("/messages", authToken, messageRoute);
 app.use("/pools", poolRoute); 

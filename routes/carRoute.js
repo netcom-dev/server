@@ -1,5 +1,5 @@
 import express from "express";
-import {createCar, getCars, getCar, putCar, deleteCar} from '../controllers/CarController.js';
+import {createCar, getCars, getCar, putCar, deleteCar} from '../controllers/carController.js';
 
 'use strict';
 
