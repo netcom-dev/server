@@ -1,5 +1,5 @@
 import express from "express";
-import {createUser, getUsers, getUser, putUser, deleteUser} from '../controllers/UserController.js';
+import {createUser, getUsers, getUser, putUser, deleteUser} from '../controllers/userController.js';
 
 'use strict';
 

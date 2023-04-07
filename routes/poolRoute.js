@@ -1,5 +1,5 @@
 import express from "express";
-import {createPool, getPools, getPool, putPool, deletePool} from '../controllers/PoolController.js';
+import {createPool, getPools, getPool, putPool, deletePool} from '../controllers/poolController.js';
 
 'use strict';
 

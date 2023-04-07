@@ -1,5 +1,5 @@
 import express from "express";
-import {createVisitor, getVisitors, getVisitor, putVisitor, deleteVisitor} from '../controllers/VisitorController.js';
+import {createVisitor, getVisitors, getVisitor, putVisitor, deleteVisitor} from '../controllers/visitorController.js';
 
 'use strict';
 

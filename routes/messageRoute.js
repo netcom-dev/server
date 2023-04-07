@@ -1,5 +1,5 @@
 import express from "express";
-import {createMessage, getMessages, getMessage, putMessage, deleteMessage} from '../controllers/MessageController.js';
+import {createMessage, getMessages, getMessage, putMessage, deleteMessage} from '../controllers/messageController.js';
 
 'use strict';
 

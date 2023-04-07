@@ -1,5 +1,5 @@
 import express from "express";
-import {createService, getServices, getService, putService, deleteService} from '../controllers/ServiceController.js';
+import {createService, getServices, getService, putService, deleteService} from '../controllers/serviceController.js';
 
 'use strict';
 

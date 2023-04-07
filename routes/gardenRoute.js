@@ -1,5 +1,5 @@
 import express from "express";
-import {createGarden, getGardens, getGarden, putGarden, deleteGarden} from '../controllers/GardenController.js';
+import {createGarden, getGardens, getGarden, putGarden, deleteGarden} from '../controllers/gardenController.js';
 
 'use strict';
 

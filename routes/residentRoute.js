@@ -1,5 +1,5 @@
 import express from "express";
-import {createResident, getResidents, getResident, putResident, deleteResident} from '../controllers/ResidentController.js';
+import {createResident, getResidents, getResident, putResident, deleteResident} from '../controllers/residentController.js';
 
 'use strict';
 
