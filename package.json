@@ -5,8 +5,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
-    "auth": "nodemon auth.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
